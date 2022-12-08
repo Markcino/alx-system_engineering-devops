@@ -1,1 +1,2 @@
 i am working now
+COMMANDS FOR ALIAS, VARIABLES, & EXPANSIONS
