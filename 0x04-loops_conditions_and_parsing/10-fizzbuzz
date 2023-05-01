@@ -14,4 +14,4 @@ do
     else
         echo $i
     fi
-done
+done | head -20
